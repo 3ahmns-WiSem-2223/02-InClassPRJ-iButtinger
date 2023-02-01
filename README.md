@@ -2,7 +2,7 @@
 
 Ein Unterrichtsprojekt Projekt in dem man mit der maus Zielscheiben zerstört
 
-Unity Version 2020.3.18f
+Unity Version 2020.3.18f1
 C#
 Visual Studios 2019
 
